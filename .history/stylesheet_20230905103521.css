@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+  font-size: 120%;
+}
+
+table
+{
+  border-width: 2px;
+  margin-left: auto;
+  margin-right: auto;
+}
